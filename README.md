@@ -11,8 +11,6 @@ In general, this app provides these features, but not limited to:
 - Save and show my last search result
 - UI to save current turnip price from Monday to Saturday
 - Expect to suggest possible highest/lowest turnip price throughout the week with entered data
-- User Community to post trades and giveaways
-- User Community to write posts to share ideas and tips
 
 The app is a personal hobby app and is in its development stage.
 
@@ -22,7 +20,7 @@ The final goal is a working deployable Progressive Web App, where users can acce
 
 ### Stage I
 - [x] General App blueprint and features brainstorming
-- [ ] Wireframing using Figma (20%)
+- [ ] Wireframing using Figma (50%)
 - [ ] Stack Decision
 - [ ] DB Planning
 - [ ] Basic App Setup
@@ -35,14 +33,21 @@ The final goal is a working deployable Progressive Web App, where users can acce
 
 
 ### Stretch features
+- User Community to post trades and giveaways
+- User Community to write posts to share ideas and tips
 - Daily Quests - a list of checkboxes for daily to-do's
 - Earn a badge for daily quests and accomplishment
 - My profile add/edit
 - Gmail/facebook authentication for user signup
 - Upload screenshots from Nintendo Switch
 
-
-
+## Stack
+- Node.js
+- React
+- Progressive Web App
+- Material-UI
+- Node Express as backend
+- Storybook for unit testing
 
 ## Available Scripts
 
