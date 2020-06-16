@@ -11,6 +11,7 @@ In general, this app provides these features, but not limited to:
 - Save and show my last search result
 - UI to save current turnip price from Monday to Saturday
 - Expect to suggest possible highest/lowest turnip price throughout the week with entered data
+- Update page that shows the latest update and seasonal events along with past events.
 
 The app is a personal hobby app and is in its development stage.
 
@@ -46,8 +47,9 @@ The final goal is a working deployable Progressive Web App, where users can acce
 - React
 - Progressive Web App
 - Material-UI
-- Node Express as backend
+- Express.js as backend
 - Storybook for unit testing
+- PostreSQL with ElephantSQL for cloud database
 
 ## Available Scripts
 
