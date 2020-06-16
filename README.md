@@ -21,7 +21,7 @@ The final goal is a working deployable Progressive Web App, where users can acce
 ### Stage I
 - [x] General App blueprint and features brainstorming
 - [ ] Wireframing using Figma (50%)
-- [ ] Stack Decision
+- [x] Stack Decision
 - [ ] DB Planning
 - [ ] Basic App Setup
 - [ ] Basic Backend API Setup
