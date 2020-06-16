@@ -1,4 +1,6 @@
-## ACNH Lighthouse: A Guide to Animal Crossing New Horizon
+# ACNH Lighthouse : App in your hand
+
+## A Guide to Animal Crossing New Horizon
 
 This app provides useful information and data to assist users playing 'Animal Crossing New Horizon' on Nintendo Switch.
 I myself have spent copious amount of time to find the details of certain items, villagers and general what-to-do's with my phone, and some of them led to spending too much time in navigating to access the information I needed.
@@ -15,6 +17,31 @@ In general, this app provides these features, but not limited to:
 The app is a personal hobby app and is in its development stage.
 
 The final goal is a working deployable Progressive Web App, where users can access to my website and use the app in his or her own smartphone, that works just like a native app from the Appstore or Playstore.
+
+# Current Progress
+
+### Stage I
+- [x] General App blueprint and features brainstorming
+- [ ] Wireframing using Figma (20%)
+- [ ] Stack Decision
+- [ ] DB Planning
+- [ ] Basic App Setup
+- [ ] Basic Backend API Setup
+
+### Stage II
+- [ ] Index Page Frontend
+- [ ] Search Function
+- [ ] Page Router and Navigation
+
+
+### Stretch features
+- Daily Quests - a list of checkboxes for daily to-do's
+- Earn a badge for daily quests and accomplishment
+- My profile add/edit
+- Gmail/facebook authentication for user signup
+- Upload screenshots from Nintendo Switch
+
+
 
 
 ## Available Scripts
