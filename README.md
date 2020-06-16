@@ -1,4 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ACNH Lighthouse: A Guide to Animal Crossing New Horizon
+
+This app provides useful information and data to assist users playing 'Animal Crossing New Horizon' on Nintendo Switch.
+I myself have spent copious amount of time to find the details of certain items, villagers and general what-to-do's with my phone, and some of them led to spending too much time in navigating to access the information I needed.
+
+In general, this app provides these features, but not limited to:
+
+- Search for information about in-game objects including items, villagers, quests
+- Save and show my last search result
+- UI to save current turnip price from Monday to Saturday
+- Expect to suggest possible highest/lowest turnip price throughout the week with entered data
+- User Community to post trades and giveaways
+- User Community to write posts to share ideas and tips
+
+The app is a personal hobby app and is in its development stage.
+
+The final goal is a working deployable Progressive Web App, where users can access to my website and use the app in his or her own smartphone, that works just like a native app from the Appstore or Playstore.
+
 
 ## Available Scripts
 
@@ -37,19 +54,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
 ### Making a Progressive Web App
 
